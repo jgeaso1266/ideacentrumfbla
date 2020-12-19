@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "22283926889",
+    "project_id": "idea-centrum",
+    "storage_bucket": "idea-centrum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22283926889:android:bbccf45831fb873205d1f8",
+        "android_client_info": {
+          "package_name": "org.fbla.geason.ideacentrum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22283926889-oluktrh2pdsf27a65q97i1r33r8ob2n8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVTfErCSA-RpKs3cUrzSC9WVPFPuJWmUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22283926889-oluktrh2pdsf27a65q97i1r33r8ob2n8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
