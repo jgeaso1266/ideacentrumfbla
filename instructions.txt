@@ -1,0 +1,27 @@
+Idea Centrum Instructions
+
+When you open the app the first time, you will see a login screen.
+If you have login credentials (email and password), enter them 
+here. If not, click the register button and fill in all fields.
+
+The home page is a grid view of centroids, a title, an idea, and
+sometimes, a picture. Click one of those centroids to see more
+information, such as the problem the idea aims to solve, the 
+things the ideamaker needs in order to continue with their idea,
+as well as the link to the profile of the ideamaker so that you
+can contact them. There is also a share button for you to share 
+the idea on social media.
+
+Along the bottom of the screen is the navigation bar with three
+items: add, home, and profile. They are pretty self-explanatory.
+
+The home button takes you back to the home page.
+
+To add a centroid, press the add button and fill in the 
+required information. 
+
+To view your profile, press the profile button. There you will 
+be able to change your information and add information on your
+background, education, and experience. You will also find prior
+centroids that you made. There is also a button at the top to 
+report a bug in the app.
