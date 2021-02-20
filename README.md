@@ -8,5 +8,9 @@ This app connects people unlike any other! While other social media connects peo
 
 Please contribute any ideas by emailing me at j.geason@yahoo.com!
 
+## Copyright
+
+All sample images used in the app are self-produced or otherwise covered under the Free and Fair Use copyright act. 
+
 ## License
 [FBLA](fbla-pbl.org)
